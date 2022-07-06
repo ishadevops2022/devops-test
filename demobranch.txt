@@ -1,1 +1,4 @@
-demo of a new branch in git 
+demo of a new branch in git  adding a few more things
+
+
+to show git add -p demo
